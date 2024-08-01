@@ -1,0 +1,199 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.saerch p {
+    float: right;
+    margin-left: 500px;
+    margin-top: 10px;
+}
+
+.saerch p:hover {
+    cursor: pointer;
+
+
+}
+
+.navbar {
+    height: 40px;
+}
+.navbar-collapse i{
+    background-color: antiquewhite;
+}
+.navbar-collapse i:hover{
+cursor: pointer;
+background-color: aquamarine;
+}
+.ak {
+    height: 600px;
+
+    background: linear-gradient(to right,
+            #57d9ff,
+            #CCFFFF);
+}
+
+.text1 {
+    padding-top: 100px;
+}
+#dow{
+    color: black;
+
+}#dow:hover{
+    cursor:pointer;
+    color: blue;
+    
+}
+.am {
+
+    height: 70px;
+
+    background: linear-gradient(to right,
+            #57d9ff,
+            #CCFFFF);
+}
+
+
+.ak3 {
+    width: 700px;
+    margin-left: 40px;
+    height: 400px;
+}
+
+.ak4 {
+    width: 700px;
+    margin-left: 40px;
+    height: 400px;
+}
+
+.BUTTONSS {
+    width: 150px;
+    height: 30px;
+    background-color: black;
+    color: azure;
+    border: none;
+    text-align: center;
+    border-radius: 20px;
+}
+.wok{
+    width: 150px;
+    height: 30px;
+    background-color: black;
+    color: azure;
+    border: none;
+    text-align: center;
+    border-radius: 20px;
+}
+.woke{
+    width: 150px;
+    height: 30px;
+    background-color: black;
+    color: azure;
+    border: none;
+    text-align: center;
+    border-radius: 20px;
+}
+.num1{
+    width: 150px;
+    height: 30px;
+    background-color: black;
+    color: azure;
+    border: none;
+    text-align: center;
+    border-radius: 20px;
+}
+.week{
+    width: 150px;
+    height: 30px;
+    background-color: black;
+    color: azure;
+    border: none;
+    text-align: center;
+    border-radius: 20px;
+}
+.bet{
+    width: 150px;
+    height: 30px;
+    background-color: black;
+    color: azure;
+    border: none;
+    text-align: center;
+    border-radius: 20px;
+}.wokkoe{
+    width: 150px;
+    height: 30px;
+    background-color: black;
+    color: azure;
+    border: none;
+    text-align: center;
+    border-radius: 20px;
+}
+.akm {
+    list-style: none;
+}
+
+.ak12 {
+    margin-top: 20px;
+    margin-left: 0;
+}
+
+.make {
+    height: 50px;
+    background-color: black;
+    color: beige;
+    font-size: 10px;
+    margin-top: 20px;
+
+}
+
+.make p {
+    padding-top: 15px;
+    padding-left: 15px;
+}
+
+.abut {
+    height: 200px;
+    background-color: #d3cece;
+}
+
+.abut li {
+    list-style: none;
+    font-size: 13px;
+}
+
+.abut a {
+    text-decoration: none;
+    color: black;
+}
+
+.abut a:hover {
+    cursor: pointer;
+    text-decoration: underline;
+    color: blue;
+}
+
+.abut ul {
+    margin-left: 50px;
+}
+
+.arroe {
+    display: inline-flex;
+
+}
+
+.aaa {
+    padding-top: 10px;
+}
+
+.about {
+    height: 100px;
+    background-color: #d3cece;
+}
+
+.arroe h6 {
+    font-size: 10px;
+    margin-left: 60px;
+    color: black;
+}
